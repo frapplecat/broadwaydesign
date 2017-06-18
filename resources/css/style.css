@@ -22,7 +22,7 @@ h2{
   font-family: Helvetica;
   text-align: left;
   color: white
-  background-color: dim grey;
+  background-color: dimgrey;
 }
 
 .header{
@@ -45,12 +45,35 @@ h2{
   font-weight: bold;
 }
 
+.work{
+  font-family: Helvetica;
+  color: white;
+  text-align: center;
+  font-size: 18px;
+  font-weight: bold;
+}
 
+.team{
+  font-family: Helvetica;
+  color: white;
+  text-align: center;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.contact{
+  font-family: Helvetica;
+  color: white;
+  text-align: center;
+  font-size: 18px;
+  font-weight: bold;
+}
 
 .diny{
   font-family: Helvetica;
   font-size: 23px;
   font-weight: bold;
   text-align: center;
+  color: white;
   background-image:url(https://frapplecat.github.io/broadwaydesign/resources/images/the-flatiron-building.png);
 }
