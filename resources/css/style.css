@@ -1,5 +1,4 @@
 html{
-  text-align: center;
   font-family: Helvetica;
 }
 
@@ -7,16 +6,19 @@ h1{
   font-size: 70px;
   font-weight: bold;
   color: white;
+  text-align: center;
 }
 
 h2{
   font-size: 32px;
   font-weight: bold;
+  text-align: center;
 }
 
 h3{
   font-size: 23px;
   font-weight: bold;
+  text-align: center;
 }
 
 .taillist{
@@ -31,4 +33,10 @@ h3{
 
 .header{
   background-image:url(https://frapplecat.github.io/broadwaydesign/resources/images/the-flatiron-building.png)
+}
+
+.toplink{
+  color: white;
+  text-align: center;
+  font-size: 18px;
 }
