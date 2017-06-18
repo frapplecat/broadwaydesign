@@ -13,6 +13,13 @@ h2{
   text-align: center;
 }
 
+h3{
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  text-align: center;
+}
+
 .taillist{
   font-family: Helvetica;
   text-align: center;
