@@ -3,6 +3,7 @@ html{
 }
 
 h1{
+  font-family: Helvetica;
   font-size: 70px;
   font-weight: bold;
   color: white;
@@ -10,20 +11,21 @@ h1{
 }
 
 h2{
+  font-family: Helvetica;
   font-size: 32px;
   font-weight: bold;
   text-align: center;
 }
 
-h3{
 
-}
 
 .taillist{
+  font-family: Helvetica;
   text-align: center;
 }
 
 .footer{
+  font-family: Helvetica;
   text-align: left;
   color: white
   background-color: dim grey;
@@ -34,13 +36,23 @@ h3{
 }
 
 .toplink{
+  font-family: Helvetica;
   color: white;
   text-align: center;
   font-size: 18px;
 }
 
-.diny{  font-size: 23px;
+.diny{
+  font-family: Helvetica;
+  font-size: 23px;
   font-weight: bold;
   text-align: center;
   background-image:url(https://frapplecat.github.io/broadwaydesign/resources/images/the-flatiron-building.png);
+}
+
+.h3norm{
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  text-align: center;
 }
