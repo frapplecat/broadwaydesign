@@ -1,7 +1,3 @@
-html{
-  font-family: Helvetica;
-}
-
 h1{
   font-family: Helvetica;
   font-size: 70px;
@@ -16,8 +12,6 @@ h2{
   font-weight: bold;
   text-align: center;
 }
-
-
 
 .taillist{
   font-family: Helvetica;
@@ -40,6 +34,7 @@ h2{
   color: white;
   text-align: center;
   font-size: 18px;
+  font-weight: bold;
 }
 
 .diny{
